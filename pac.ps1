@@ -1,6 +1,6 @@
 dotnet publish -c Release  ..\LibraLoan\ -r win-x64 -o .\publish
 
-$version = "0.1.50"
+$version = "0.1.55"
 $pack_id = "LibraLoan"
 $main_exe = "LibraLoan.exe"
 $icon_path = ".\icon.ico"
